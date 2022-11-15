@@ -16,15 +16,15 @@
 - SIEM
 - DFIR 
 
-## Network Fundamentals
+## Network Fundamentals [2hrs]
 - TCP/IP, LAN, subnet, OSI model, arp, DHCP, DNS, Packets
 - nc, ssh, ftp
 
-## Web Fundamentals
+## Web Fundamentals [1hr]
 - How web works - The data flow
 - Manual enum using browser tools(view -> source, Inspector,Debugger, Network)
 
-## Web Exploitation
+## Web Exploitation [30hrs]
 - Content Discovery (DIRB, Burp, gobuster, fuzz)
 ### Server-Side
  - SQL Basics [4hr]
@@ -45,4 +45,21 @@
 - DOM-based
 
 - jwt
+
+## Network Sniffing and Cracking
+ - WEP attack
+ - WPA/WPA2 attack
+ - aircrack-ng suit
+ - wifilite
+ - Post Connection attack (ARP poisioning)
+ - wireshark
+
+## Pwning and Delivery Methods
+ - msf, msfvenom, python
+ - LinPEAS
+ - WinPEAS
+ - SEToolkiit
+ - curl 
+ - nc file transfer
+ - ssh file transfer
 
